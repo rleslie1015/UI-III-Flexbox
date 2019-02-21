@@ -65,3 +65,25 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body{
+		width: 880px;
+}
+div .topLine {
+	display: flex;
+}
+main {
+	display: flex;
+	flex-direction: column;
+}
+div .upper-content {
+	display: flex;
+}
+div .middle-content {
+	display: flex;
+}
+div .lower-content {
+	display: flex;
+}
+footer {
+	display: flex;
+}
