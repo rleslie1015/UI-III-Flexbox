@@ -153,6 +153,7 @@ div .upper-content{
 	align-items: center;
 	align-content: space-between;
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 div.title-section {
 	display: flex;
@@ -160,4 +161,19 @@ div.title-section {
 	justify-content: center;
 	align-items: center;
 	padding: 30px;
+}
+.contact {
+	width: 22%;
+
+}
+.contact address, small{
+	padding: 20px 0;
+	margin:20px 0;
+}
+small {
+	width: 22%;
+}
+.contact .details  {
+	margin: 10px 0;
+	padding: 10px 0;
 }
